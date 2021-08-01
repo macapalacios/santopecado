@@ -1,0 +1,25 @@
+
+/** Una vez que el usuario se autentique , va a terminar el proceso y luego va 
+ * proceso pero al terminar el proceso me
+va a dar a los datos del usuario está
+indicado de esos datos tan sólo quiero
+el eid y el haití es lo que vamos a
+estar intercambio entre múltiples
+páginas entre cada vez que el usuario
+navega entre múltiples páginas de mi
+navegador pero eso va a tener que ser
+autenticado con el servidor entonces el
+navegador cada vez que viaja una nueva
+página me va a dar el haití y cada vez
+que viaje yo voy a hacer una consulta a
+la base de datos para ver si ese usuario
+existe en la base de datos y como es
+natural que exista pues lo que va a
+pasar es que me va a devolver los datos
+de ese usuario y de nuevo se lo voy a
+dar al navegador y este proceso el que
+se va a repetir a cada momento cada vez
+que el usuario sea auténtico a través de
+este método
+
+ * */ 
